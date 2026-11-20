@@ -1,6 +1,6 @@
 {
   "version": "3.0.2",
   "download_url": "https://github.com/han9074-netizen/local-pdf-organizer-updates/releases/download/v3.0.2/LocalPDFOrganizer-v3.0.2.zip",
-  "sha256": "ea5b9ea88943b3dbe339e05b01181e2012735a544a35d271b09106cd05712462",
-  "notes": "首次啟用 GitHub 安全自動更新，並加入移除選錯檔案與選取頁面的功能。"
+  "sha256": "4f4644b55bd7bdaceb70adb95c8ac873cb3cc7e0c892f8d3e8d2f610b8e4ea9f",
+  "notes": "首次啟用 GitHub 安全自動更新，加入移除選錯檔案與選取頁面，並在更新成功後安全清理舊版與暫存檔。"
 }
