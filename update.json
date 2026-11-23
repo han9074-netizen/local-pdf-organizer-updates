@@ -1,6 +1,6 @@
 {
-  "version": "3.0.3",
-  "download_url": "https://github.com/han9074-netizen/local-pdf-organizer-updates/releases/download/v3.0.3/LocalPDFOrganizer-v3.0.3.zip",
-  "sha256": "a841b4ec52141d549d084f510cefe5bbbf1eb984b136322c3858e92f505bf4fc",
-  "notes": "LocalPDFOrganizer v3.0.3 已發布。支援透過 GitHub 取得新版更新；尚未支援自動更新的舊版本請手動下載安裝一次。"
+  "version": "3.0.4",
+  "download_url": "https://github.com/han9074-netizen/local-pdf-organizer-updates/releases/download/v3.0.4/LocalPDFOrganizer-v3.0.4.zip",
+  "sha256": "0b5139684a8d73ebd527157ff23345009aaa67563fd5ec72537292181022de82",
+  "notes": "LocalPDFOrganizer v3.0.4：改善工具列排版、新增移除檔案與移除選取頁面功能，並優化系統匣常駐與完整結束操作。"
 }
